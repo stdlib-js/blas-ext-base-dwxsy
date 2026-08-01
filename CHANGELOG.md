@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`22fe7a6`](https://github.com/stdlib-js/stdlib/commit/22fe7a64a77d8fecc54da41dac870f2249b0c731) - **bench:** update benchmarks to use decimal literals [(#13849)](https://github.com/stdlib-js/stdlib/pull/13849) _(by Karan Anand)_
 -   [`8c49b29`](https://github.com/stdlib-js/stdlib/commit/8c49b2968db52866bb550ee1cfde60567c60eca9) - **docs:** update examples [(#13846)](https://github.com/stdlib-js/stdlib/pull/13846) _(by Karan Anand)_
 -   [`36f4ad6`](https://github.com/stdlib-js/stdlib/commit/36f4ad6f345b5bfe0ebb134d7ea8ff210197bccd) - **feat:** add `blas/ext/base/dwxsy` [(#13764)](https://github.com/stdlib-js/stdlib/pull/13764) _(by Karan Anand)_
 
